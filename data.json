@@ -1,0 +1,50 @@
+{
+    "tov1": {
+        "title": "potato",
+        "cost": 10,
+        "free": {
+            "active": false,
+            "prozent": 25
+        }
+    },
+    "tov2": {
+        "title": "pomidor",
+        "cost": 15,
+        "free": {
+            "active": false,
+            "prozent": 25
+        }
+    },
+    "tov3": {
+        "title": "ogurezz",
+        "cost": 12,
+        "free": {
+            "active": false,
+            "prozent": 25
+        }
+    },
+    "tov4": {
+        "title": "kokoko",
+        "cost": 200,
+        "free": {
+            "active": false,
+            "prozent": 25
+        }
+    },
+    "tov5": {
+        "title": "nuke bomb",
+        "cost": 1000,
+        "free": {
+            "active": false,
+            "prozent": 25
+        }
+    },
+    "tov6": {
+        "title": "Roma",
+        "cost": 150,
+        "free": {
+            "active": false,
+            "prozent": 25
+        }
+    }
+}
